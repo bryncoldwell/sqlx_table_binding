@@ -1,0 +1,7 @@
+[package]
+name = "sqlx_table_binding"
+version = "0.1.0"
+authors = ["Bryn Coldwell"]
+edition = "2018"
+
+[dependencies]
