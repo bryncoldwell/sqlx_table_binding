@@ -1,5 +1,7 @@
 # SQL table binding
 
+Example repository for https://github.com/launchbadge/sqlx/issues/497
+
 ## Running locally
 
 - Start docker container
